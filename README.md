@@ -1,4 +1,8 @@
-# Welcome to my profile
+<h1  align="center">
+    <img src="https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dark-forest.jpg" width="700" height="500">
+</h1>
+
+<h1 align="center">Welcome to my profile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReduxTheCoder&label=Profile%20views&color=0e75b6&style=flat" alt="ReduxTheCoder" /> </p>
 
@@ -17,3 +21,4 @@
 	<img src="https://cdn.jsdelivr.net/gh/neovim/neovim@f05a289/cmake.packaging/neovim.svg" width="50">
 	<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="50">
 </p>
+
